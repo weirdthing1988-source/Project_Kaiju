@@ -62,3 +62,5 @@ The Cloudflare Worker has bindings for `ASSETS` and SQLite-backed Durable Object
 - `tests/`: automated Node tests of movement, detection, deployment, role claim, maps and API authorization.
 
 The v0.2 version in GitHub has not been modified to create this ZIP.
+
+Forcing a build
